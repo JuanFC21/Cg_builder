@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('/fonts/Oswald-SemiBold.ttf'); 
+ }
+
+/* In your css file where you want to use the font */
+.element { 
+ font-family: 'font-name';
+}

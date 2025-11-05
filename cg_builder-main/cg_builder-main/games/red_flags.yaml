@@ -1,0 +1,571 @@
+name: Red Flags
+version: 0.1.0
+instructions: We are all introducing one lucky friend to what we believe is
+  their perfect match! When it's your turn, choose 2 perks you believe they
+  would like in a person they date. After all perks are placed, you will have
+  the chance to destroy your opponents adding a red flag to their applicant.
+  Then your friend has to pick the best (or least worst) applicant, if yours
+  gets picked, you get a point!
+num_players: 4 or more
+authors: Darin Ross, Skybound Games
+website: https://www.amazon.com/Red-Flags-400-Card-Main-Game/dp/B018EXPGPI
+duration: Multiple rounds of about 20 minutes each
+expansions:
+  - basics:
+    name: Basics
+    categories:
+      - red_flags:
+        name: Red
+        items:
+          - They've slept with their step-parent
+          - They're a literal red flag. 6ft tall, ready for action, with a nice, sturdy pole
+          - On the second date they'll ask you to bury a coffin at 2am
+          - They "love" animals just a bit too much
+          - They have a stolen identity
+          - They've got loads of burner phones in their room
+          - They're a cocaine dealer
+          - They own a meth lab
+          - They're a war general, and wanted for war crimes
+          - They're a cult leader
+          - They still love their ex
+          - They hate your friends
+          - They're an anti-vaxxer
+          - They have no genitals
+          - They're constantly travelling for business
+          - They are a flat earther
+          - They ghosted their last partners
+          - They're a literal ghost
+          - They are constantly forgetting your name
+          - Is illiterate
+          - They use chilli as lube
+          - They have Wikipedia's "List of serial killers by number of victims" bookmarked
+          - Adds you as an emergency contact on the first date
+          - They had your phone number before you had officially met
+          - Compulsive liar
+          - They are entirely fictional, but you love them anyway
+          - They share a bedroom with eight guys
+          - You've dated them before... It didn't work out last time
+          - Is top-half fish
+          - Is bottom half fish
+          - Only speaks in business buzzwords
+          - Refuses to have sex on a mattress
+          - They have really smelly breath
+          - They're a really bad kisser
+          - Thinks they're a Jedi
+          - Super, super racist
+          - Sexist, but refuses to admit it
+          - Owes the government a lot of money. They won't tell you how much
+          - Death row inmate
+          - They're more attracted to your sister / brother
+          - They're not sexually attracted to you
+          - Thinks you're ugly
+          - Their pet name for you is 'trash bag'
+          - Is always covered in ants, and doesn't think it's a problem
+          - Compulsively spits like a llama whenever they see children
+          - Only speaks in horrible puns
+          - Says they see the ghost of everyone who has ever died
+          - Is literally always watching porn
+          - Is addicted to crack
+          - Is addicted to prescription drugs
+          - Back-seat driver
+          - Reads over your shoulder (out loud)
+          - Is six years old
+          - Only speaks in sarcasm
+          - Farts every time they kiss you
+          - Kicks every animal they see
+          - They refuse to clean themselves at all
+          - Amateur cannibal
+          - They're trying to get into a cult, but the cult doesn't want them
+          - Dabbles in torture
+          - Uses the word 'chillax' in every sentence
+          - Has a permanent fedora
+          - Has multiple dating apps installed on their phone
+          - Literally can't make decisions
+          - Has to pee every time you're about to do anything sexy
+          - Sold your pets on the internet
+          - They cannot talk normally, they always yell
+          - They constantly look like they're angry at you
+          - Doesn't know the difference between your and you're
+          - Eats crayons
+          - Has a dozen kids from a dozen partners
+          - Is building an ark
+          - Snorts cinnamon compulsively and really wants you to try it
+          - Will only eat if you play airplane with their food
+          - Literally always on a skateboard
+          - Cries themselves to sleep every night
+          - Takes you to a dodgy strip club on the first date
+          - Counts your calories (loudly)
+          - Can't keep a job for more than a week
+          - Makes a gagging motion every time they see your face
+          - Is your clone
+          - Yawns every time you start a sentence
+          - Second name is Hitler. They'll insist that you take their name if you marry
+          - Still in fourth grade
+          - Teleports to the North Pole every time they say the word love
+          - Every time you think about them you dry heave
+          - For the second date they take you to couple's therapy
+          - Only speaks in boy band lyrics
+          - Flirts with every service person
+          - Has never spelled a word correctly
+          - Dey nvr stop txting u lik dis, k?
+          - Collects human skulls. Says they're "practically free!"
+          - Calls you by their ex's name
+          - Always wearing a Bluetooth headset
+          - Always pretending to talk to someone else (even if it's just the two of you)
+          - Narrates your actions into a voice recorder. All. The. Time.
+          - Is the person you hated the most in high school and literally hasn't changed
+          - Posts all of your texts and emails online
+          - Keeps asking if your best friend is "down"
+          - Is constantly trying to get you to join their pyramid scheme
+          - Only speaks Klingon
+          - Literally won't stop talking about their mother
+          - Describes all food as "yummy yummers"
+          - Won't allow WiFi in the house
+          - Insists that if they take off their tin-foil hat then the government will steal their ideas
+          - Responds to everything to say with "that's what she said"
+          - Is a serial killer, but they hide it from you because they think you'd disapprove
+          - Incredibly compulsive
+          - Only eats deep-fried food
+          - Tries to pay for everything with farm produce
+          - Regularly hosts tea parties for dolls
+          - Is the oldest living person
+          - Says "Could you not?" whenever you cry
+          - Literally only talks about themselves
+          - Only responds to texts with "k"
+          - Is related to you
+          - Incapable of any emotion
+          - Is actually two children stacked on top of each other in a trench coat
+          - Name drops during dirty talk
+          - Tells you how their partners like it during sex
+          - Tells you to calm down after everything you say
+          - Always feels the need to sniff their hand after shaking hands with someone
+          - Is married with kids
+          - Constantly trying to bang your friends
+          - You're best friend has told you that they're really good in bed
+          - Refers to their genitals as their "untz-untz"
+          - Rigged to a time bomb
+          - Conveniently forgets their wallet every date night (they always have their ID though)
+          - Calls you a 4 out of 10 to your face
+          - Steals locks of your hair
+          - Is trying to genetically clone you
+          - You think they might be dating you for their psychology assignment
+          - Repeats your jokes, but louder
+          - Constantly dismisses your opinion
+          - Compulsively licks doorknobs before opening the door
+          - Physically incapable of asking a question
+          - Afraid of sunlight
+          - They only ever want to sleep when you want to do something
+          - Speaks with a constantly changing foreign accent
+          - Literally always drunk
+          - Brings their mom to first date
+          - Brings two friends to first date
+          - They're in a band called "Genuinely Genocidal"
+          - Literally never stops talking
+          - Constantly attempting to kill you (they're really bad at it though)
+          - Open mouth kisses their pets
+          - You've found them taking pictures of you while you're sleeping
+          - Open mouth kisses their siblings
+          - Everyone you speak to seems to have slept with them
+          - Always picking their nose
+          - Only speaks in hashtags
+          - Demands to pop all of your zits for you
+          - Recites all the lines from "Titanic" in their sleep
+          - Is really obsessive about conspiracy theories
+          - Narrates everything they do out loud
+          - Puts "air quotes" around "every word" they say
+          - Knocks things out of strangers' hands while walking down the street
+          - Talks dirty to all of their food
+          - Has the names of all of their exes tattooed on their face
+          - Only wears clothing made of human hair
+          - Wears diapers because it's "more convenient"
+          - Can only speak in memes from TikTok
+          - Only laughs at their own jokes
+          - Constantly starts their sentences with "I'm not racist, but"
+          - Constantly starts their sentences with "I'm not sexist, but"
+          - Just got out of prison but won't tell you what they were in for
+          - Is 10 years older than you
+          - 50 Shades of Grey is literally the only book they've read
+          - Don't believe New Zealand is a real place
+          - Has been stalking you since middle school
+          - Is 10 years older than they were in their profile picture
+          - Is a vampire... Not the sexy kind
+          - Winks at you after everything they say ;)
+          - Ejaculates bees
+          - Can only orgasm if they're touching a spider
+          - Swears you look exactly like their sibling, but says "that's a good thing"
+          - Ends every conversation with "you're dismissed"
+          - Insists you call them sir/ma'am
+          - Sells their pubic hair
+          - Their sex tape with a local priest just went viral
+          - Can only have conversations through puppets
+          - Pinky promises that they're of legal age
+          - Keeps talking about their "hot cousin"
+          - Talks exclusively in emojis
+          - Always bragging about past sexual conquests
+          - Uses way way way too much tongue
+          - They really don't know how to turn you on
+          - Refuses to cover face while sneezing
+          - Refuses to look up from phone
+          - Keeps talking about someone who looks just like you, just better!
+          - Doesn't understand your jokes
+          - Doesn't believe in oral sex
+          - Laughs manically during sex
+          - Keeps on calling you their parent's name during sex
+          - Live-tweets your entire date
+          - Technically hasn't broken up with their last partner yet
+          - Has recently slept with one of your parents
+          - They've just broken up with your best friend
+          - Your friends really hate them
+          - Always dresses like a mime
+          - Only speaks in motivational quotes
+          - They can see through people's clothes
+          - Is constantly on one fad diet trend or another
+          - Static shocks you every time you touch
+          - Is allergic to all of your favourite foods
+          - They like, say "like", like all the time, yeah?
+          - Begins every sentence with "actually"
+          - Remembers every one of your mistakes, and reminds you of them
+          - Thinks they're smarter than you, but they're really not
+      - orange_flags:
+        name: Orange # Things which are green for some people, red for others
+        items:
+          - They're honest, even if it's something you don't want to hear
+          - They live in a pineapple under the sea
+          - They work at Dunder Mifflin Paper Company
+          - They work in a sex toy store
+          - They have big hands
+          - They have muscular forearms
+          - They have a muscular back
+          - They're more attractive than you
+          - They're less attractive than you
+          - They only believe in sex for procreation
+          - They see a therapist regularly
+          - They refuse to have safe sex
+          - Has a huge dick
+          - Has really sexy boobs
+          - They're bisexual
+          - Loves the 1980s
+          - Makes scented candles
+          - Lives in a castle
+          - They're increadibly weathly
+          - Lives off the grid
+          - Really into wine
+          - Loves video games
+          - Wants to wait until after marriage before having sex
+          - They're a virgin
+          - They've got experience... ;)
+          - Is extremely superstitious
+          - Yells "Language!" whenever they hear a bad word
+          - Amateur vigilante
+          - They own multiple sex toys
+          - Charges you a quarter every time you say a curse word
+          - Owns a beet farm
+          - Literally won't talk to you if you're part of the wrong Hogwarts house
+          - Super clingy
+          - They fall asleep immediately after sex
+          - Constantly taking selfies
+          - Constantly vlogging your relationship to the internet
+          - Always carries a ukulele strapped to their back
+          - Refuses to use any electricity that wasn't made sustainably (even out in public)
+          - Has a knife collection
+          - Has a gun collection
+          - Only speaks in Disney song lyrics
+          - Writes erotic Bugs Bunny fan fiction
+          - Only communicates with you via fax
+          - Invests everything they earn into crypto currency
+          - Really long fingernails
+          - Is eligible for the Make-A-Wish Foundation
+          - Looks and smells just like your mom/dad
+          - Is convinced that you're a figment of their imagination
+          - Has eight kids and counting
+          - Is a hobbit
+          - Only eats meat
+          - Is vegetarian
+          - Is vegan
+          - Too stupid to get any of your jokes. But always asks for you to explain them, in elaborate detail.
+          - Has a carrot for a nose and will melt if they get too hot
+          - They have a twin
+          - Stunt double
+          - They're so attractive strangers stare at them
+          - They love kissing
+          - They want kids someday
+          - They want kids ASAP
+          - Really really hates children
+      - green_flags:
+        name: Green
+        items:
+          - They're a semi-aquatic egg laying mammal of action
+          - They don't hide anything from you
+          - They're super organised and put together
+          - You had a one-night-stand, but they're actually really sweet
+          - They get you surprise gifts
+          - They make cute drawings and paintings of you
+          - They take really good photos of you
+          - They know exactly how to turn you on
+          - They make you feel loved
+          - They think you're the sexiest person they've ever seen
+          - They make you feel sexy
+          - They give you the confidence to face your fears
+          - They respect your hobbies
+          - They treat you as their equal
+          - If they're upset, they take time to calm down before talking
+          - They give you space for your hobbies and social life
+          - They don't need to constantly be with you all the time
+          - They know how to compromise fairly
+          - They're good at communicating their boundaries
+          - They fairly distribute chores
+          - You feel you can be yourself around them
+          - They don't judge you if you're having a bad day
+          - They're happy to see you, regardless of how you look
+          - They listen to you when you say you're unhappy with something in the relationship
+          - You can openly discuss issues with them
+          - They take responsibility for their mistakes
+          - They don't pressure you into things you don't want to do
+          - They prioritize spending time with you
+          - They really make an effort to get to know your friends/family
+          - You find yourself smiling when you think of them
+          - They know when to be silly, and when to be serious
+          - They voiced your favorite TV show character
+          - They always tidy up after themselves
+          - They can save the bees!
+          - They like trying out new things during sex
+          - They're naturally hairless in all the right places
+          - They make your parents proud of you
+          - They make a really good cup of tea/coffee
+          - They've got your taste in music
+          - They can teleport
+          - They're the heir to the Lindt fortune
+          - They own the Millenium Falcon
+          - They can help you achive your life goals
+          - They're really good at mixing cocktails
+          - They're an underwear model
+          - They give the best cuddles
+          - They went to Hogwarts
+          - They love animals
+          - They'd bury a body for you, no questions asked
+          - They know how to fix things around the house
+          - Writes you really cute handwritten letters
+          - Can make their hands vibrate
+          - They know how to take a compliment
+          - They make your ex jealous
+          - They own your favourite museum/restaurant
+          - They own your favourite club/bar
+          - They get along well with your friends
+          - Gives you multiple orgasms
+          - Likes cuddling as long (or short) as you do
+          - Has the most attractive ___ you've ever seen
+          - They smell really good
+          - Fiercely loyal
+          - Believes you are the most attractive person they've ever seen
+          - They trust you and always assume you meant well
+          - They really respect you for your accomplishments
+          - They respect your boundaries, no questions asked
+          - They're increadibly honest; they'll never lie or hide something from you
+          - They're patient, and don't mind if you need some more time
+          - They're reliable, and you can count on them to be there when you need them
+          - They make you laugh whenever you're together
+          - They like making you food and snacks when you're busy
+          - They're a really good listener, and you feel like you can always talk to them
+          - They support you emotionally
+          - They encourage you to achieve your dreams
+          - They're really generous and are always offering to help you out
+          - They're a really generous partner (in bed)
+          - They're increadibly driven to achieve their goals in life. They're going places.
+          - Always makes time for you
+          - Always gives you very thoughtful gifts
+          - Perfect amount of physical affection
+          - Adventurous
+          - Loves you unconditionally
+          - In touch with their feelings
+          - Your parents love them
+          - They get along well with your friend group
+          - Owns a magic carpet
+          - Volunteers with elderly people
+          - Animal shelter volunteer
+          - Has front row tickets to every concert
+          - Has front row tickets to every sporting event
+          - Loves the outdoors
+          - Loves staying at home and having a chill day
+          - Loves children
+          - Most physically attractive person you have ever seen
+          - Owns a vineyard
+          - Owns an adorable coffee shop
+          - Lives on the beach front
+          - Has a magic bag that contains unlimited cheese
+          - Has a magic pint glass that contains unlimited beer
+          - Owns a 100m yacht
+          - Owns an island in the Bahamas
+          - Owns your favourite sports team
+          - Owns a penthouse suite in your favourite city
+          - Gives millions to your favourite charity
+          - Owns a time machine
+          - Has the best hair ever
+          - Owns a unicorn
+          - Genius-level IQ
+          - Owns a successful start-up
+          - Best sex ever
+          - Can get you both into literally anywhere
+          - You'll never have to work while you date them
+          - You'll never get sick while you date them
+          - You literally will not age while you date them
+          - Always smells like _____
+          - Speaks every romantic language
+          - Is a professional _____
+          - Knows everything about _____
+          - You will never gain weight while you date them
+          - Owns a goose that lays designer clothing
+          - Has a cellar full of _____
+          - Professional surfer
+          - Rocket scientist
+          - Model
+          - Professional football player
+          - Famous artist
+          - Firefighter
+          - Astronaut
+          - President
+          - Rodeo champion
+          - Professional wrestler
+          - Famous movie star
+          - Famous musician
+          - Famous rapper
+          - Porn star
+          - Supermodel
+          - Professional chef
+          - World's best hair stylist
+          - CEO
+          - Brain surgeon
+          - Lawyer
+          - World's best advertising executive
+          - Airline pilot
+          - Marine
+          - Spin instructor
+          - Bestselling author
+          - YouTube celebrity
+          - Lumberjack
+          - Organic farmer
+          - Stunt double
+          - Park ranger
+          - Ski instructor
+          - Photographer
+          - Famous fashion designer
+          - Is royalty
+          - Is a genie
+          - The lead singer of your favourite band
+          - Olympic gymnast
+          - Yoga instructor
+          - World champion hunter
+          - Won the medal of honour
+          - Is never gonna give you up / Let you down / Run around / Or desert you
+          - Was on the news for rescuing a kitten
+          - They are the hot barista at your favorite coffee shop
+          - Has an 8-pack
+          - Never arrives prematurely ;)
+          - Is a vampire... the sexy kind
+          - Beautiful eyes that you can get lost in
+          - Completely blind to all of your flaws
+          - Spontaneous and fun
+          - Makes you feel secure
+          - Makes you feel safe
+          - Has really comfy hoodies
+          - You can steal their clothing and they're cool with it
+          - Has the hottest friends
+          - Can fly
+          - Superhero
+          - Cooks all your favourite foods
+          - Knows all the words to your favourite children's TV theme songs
+          - Never blames you for anything
+          - Can get you free drinks at any bar in the world
+          - Creates shelters for the homeless
+          - Is a great conversationalist
+          - Gives the best hugs
+          - Always knows how to cheer you up when you're down
+          - An amazing dancer
+          - Can get you a table at any restaurant any time any place
+          - Their farts smell like flowers
+          - Never farts
+          - Their morning breath smells like fresh-baked cookies
+          - Owns Mars
+          - Is a night person and a morning person
+          - Loves their job
+          - Has all the same hobbies as you
+          - Can talk to animals
+          - Gives great massages
+  - roo:
+    name: "Roo's Extension"
+    categories:
+      - red_flags:
+        name: Red
+        items:
+          - You keep telling them that the meat has gone off, but they cook it
+            anyway and try feed it to you.
+          - You've found nudes of other people on their phone
+          - After sex they try to wash the condom (so they can use it later).
+          - After the first date they made a Sims character that looks like you
+          - They like drawing you, but they're *terrible* at it
+      - green_flags:
+        name: Green
+        items:
+          - They like showing you their hobbies
+          - They collect shells that they think you'll like
+          - They save memes that they think you'll like so that you can watch
+            them together
+          - Their friends look excited to meet you
+          - You two have lots of couple friends together
+          - They let you use their Netflix account
+          - They're really good at finding nice weekend getaway locations
+          - They always check if you got home safe
+          - They're good with money
+          - They don't get stressed easily
+          - They seem to have life under control
+          - Writes you love poems in fictional languages (Klingon, Elvish, etc)
+          - They've got _really_ good Spotify playlists
+          - Owns a cat named after a lesser-known Tolkien character
+          - Writes romantic poetry exclusively in binary code
+          - The two of you enjoy inventing elaborate backstories for baristas
+            or people you pass in the street
+          - They are really good at doing funny celebrity impersonations
+          - They are an absolute powerhouse in trivia quizzes/60 seconds
+          - Can recite all elements of the periodic table as a rap
+          - Anonymously runs a very popular wholesome-meme Instagram account
+          - Teaches their parrot to speak in quotes from classic sci-fi movies
+          - Saves the last cookie in the box just for you
+          - Keeps a diary of heart-warming moments shared together
+          - Always knows how to find the best stargazing spots
+          - Hides cute love notes in library books for you to discover
+          - Surprises you with breakfast in bed on the weekends
+          - Surprises you with oral in bed on the weekends
+          - Surprises you with warm home-made blanket forts on rainy days
+          - Always has a steady supply of your favourite comfort snacks
+          - Has a collection of embarrassingly adorable childhood photos to share
+          - Takes sneaky Polaroid photos of you at your happiest moments
+          - Loves to plan spontaneous picnics, complete with soft blankets
+          - Loves exploring antique stores with you
+          - Joins you in your impromptu dance parties in the living room
+          - Shares their favourite childhood cartoons and animated movies with you
+          - Genuinely enjoys hanging out with your pet
+          - Plans spontaneous road trips to nearby quaint towns
+          - Surprises you with forehead kisses
+          - They send you surprise nudes just to tease you
+          - They look really hot when they're just walking around half clothed
+            in the morning in your apartment
+          - They're better in bed than your ex
+          - They're more *generous* than you are
+          - They like trying out new things in bed
+          - Their cologne/perfume turns you on a little.
+          - Your mind can't help but conjure up all sorts of naughty things to
+            do together
+          - They've got stamina (;
+          - You really hate their ex
+          - They had been on a first date with a few other people, but chose to
+            date you over all of them
+          - You often catch yourself just oogling them as they walk around the
+            kitchen or work at their desk
+          - They buy sexy underwear that they think you'll like
+          - They look a *lot* like your childhood cartoon crush
+          - They look like a celebrity crush you had in high school
+          - They get asked to model for photo shoots
+          - They like to draw you naked
+          - They're really good at drawing and painting
+          - They're good at telling you how to pleasure them
+          - They're good at figuring out how to pleasure you
+          - They understand exactly how to turn you on
